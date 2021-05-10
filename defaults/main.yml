@@ -1,0 +1,11 @@
+---
+
+unifi_hostname: "unifi.viskum-net.dk"
+
+unifi_packages_state: present
+
+unifi_repo_state: present
+
+unifi_services_state: started
+unifi_services_enabled: yes
+
